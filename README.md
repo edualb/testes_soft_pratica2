@@ -15,9 +15,9 @@ botão como na figura ao lado
 - Uma mensagem no formato “It workls! <código>!” será
 exibida
 - Capture a mensagem e verifique se o valor está correto
-3 faça um vídeo do teste sendo executado 3 vezes seguidas e envie
+- faça um vídeo do teste sendo executado 3 vezes seguidas e envie
 para o professor
-4 envie o código fonte do script para o professor
+- envie o código fonte do script para o professor
 Data: próxima aula
 Valor: 10 pontos
 
