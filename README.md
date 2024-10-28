@@ -34,3 +34,11 @@ pip install -r requirements.txt
 ## Install the Selenium Webdriver
 
 For Firefox you can use [geckodriver](https://github.com/mozilla/geckodriver). For other browsers you can check in the [Selenium Documentation](https://selenium-python.readthedocs.io/installation.html)Mainteined by the community.
+
+# Running
+
+Just execute the code below to run the test case:
+
+```sh
+python -m unittest main.py
+```
